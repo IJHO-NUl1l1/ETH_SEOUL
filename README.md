@@ -16,4 +16,4 @@ Consequently, many young hopefuls faced disappointment due to the system's flaws
 4. npm start on frontend
 5. node test.js on backend
 
-**Network must be **ASTAR zkEVM (Testnet zKyoto)** to connect wallet**
+*Network must be **ASTAR zkEVM (Testnet zKyoto)** to connect wallet*
