@@ -9,11 +9,11 @@ This manipulation was primarily carried out by a single producer who oversaw the
 highlighting the issue with an opaque and centralized system.
 Consequently, many young hopefuls faced disappointment due to the system's flaws.
 
-### How to use
+### How to start
 1. git clone this repository
 2. git submodule init
 3. git submodule update
 4. npm start on frontend
 5. node test.js on backend
 
-== Network must be **ASTAR zkEVM (Testnet zKyoto)** to connect wallet ==
+**Network must be **ASTAR zkEVM (Testnet zKyoto)** to connect wallet**
